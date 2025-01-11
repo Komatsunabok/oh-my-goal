@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48169ADE-1886-46A4-C937-91309FA9804D}|Assembly-CSharp.csproj|c:\\users\\quter\\documents\\github\\oh-my-goal\\ohmygoal\\assets\\scrips\\enemyrandommovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48169ADE-1886-46A4-C937-91309FA9804D}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\enemyrandommovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48169ADE-1886-46A4-C937-91309FA9804D}|Assembly-CSharp.csproj|C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\assets\\scrips\\playemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48169ADE-1886-46A4-C937-91309FA9804D}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\playemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48169ADE-1886-46A4-C937-91309FA9804D}|Assembly-CSharp.csproj|C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\assets\\scrips\\camerapos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48169ADE-1886-46A4-C937-91309FA9804D}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\camerapos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48169ADE-1886-46A4-C937-91309FA9804D}|Assembly-CSharp.csproj|C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\assets\\scrips\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48169ADE-1886-46A4-C937-91309FA9804D}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyRandomMovement.cs",
+              "DocumentMoniker": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\Assets\\Scrips\\EnemyRandomMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\EnemyRandomMovement.cs",
+              "ToolTip": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\Assets\\Scrips\\EnemyRandomMovement.cs",
+              "RelativeToolTip": "Assets\\Scrips\\EnemyRandomMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:19:15.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayeMovement.cs",
+              "DocumentMoniker": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\Assets\\Scrips\\PlayeMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\PlayeMovement.cs",
+              "ToolTip": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\Assets\\Scrips\\PlayeMovement.cs",
+              "RelativeToolTip": "Assets\\Scrips\\PlayeMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:16:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCam.cs",
+              "DocumentMoniker": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\Assets\\Scrips\\PlayerCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\PlayerCam.cs",
+              "ToolTip": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\Assets\\Scrips\\PlayerCam.cs",
+              "RelativeToolTip": "Assets\\Scrips\\PlayerCam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T07:16:19.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraPos.cs",
+              "DocumentMoniker": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\Assets\\Scrips\\CameraPos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\CameraPos.cs",
+              "ToolTip": "C:\\Users\\quter\\Documents\\GitHub\\oh-my-goal\\OhMyGoal\\Assets\\Scrips\\CameraPos.cs",
+              "RelativeToolTip": "Assets\\Scrips\\CameraPos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:45:28.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
